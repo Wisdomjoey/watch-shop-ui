@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Thin.otf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-ExtraLight.otf);
+  font-weight: 200;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Light.otf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Regular.otf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Medium.otf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-SemiBold.otf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Bold.otf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Black.otf);
+  font-weight: 800;
+}
+@font-face {
+  font-family: Vastago;
+  src: url(../assets/Fonts/VastagoGrotesk-Heavy.otf);
+  font-weight: 900;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1;
+  font-family: Vastago;
+}
