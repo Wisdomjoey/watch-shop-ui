@@ -1,11 +1,11 @@
 import Button from "./button";
 import Image from "next/image";
-import com1 from "../assets/images/com1.png";
-import com2 from "../assets/images/com2.jpg";
-import com3 from "../assets/images/com3.jpeg";
-import com4 from "../assets/images/com4.jpeg";
-import com5 from "../assets/images/com5.jpeg";
-import com6 from "../assets/images/com6.jpeg";
+import com1 from "../assets/images/ct1.png";
+import com2 from "../assets/images/ct2.jpg";
+import com3 from "../assets/images/ct3.jpeg";
+import com4 from "../assets/images/ct4.jpeg";
+import com5 from "../assets/images/ct5.jpeg";
+import com6 from "../assets/images/ct6.jpeg";
 
 function Community() {
 	return (
