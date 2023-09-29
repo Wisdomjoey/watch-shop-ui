@@ -12,7 +12,7 @@ function MainHeader() {
 			<div className="w-[150px] h-[400px] bg-theme_green absolute rotate-45 opacity-70 right-[150px] blur-[100px]"></div>
 			<div className="w-[150px] h-[300px] bg-theme_green absolute -rotate-45 opacity-70 right-[150px] top-[400px] blur-[100px]"></div>
 
-			<div className="max-w-[1200px] mx-auto relative z-10 sm:w-[90%]">
+			<div className="max-w-[1200px] mx-auto relative z-10 w-[90%]">
 				<div className="flex items-center gap-[30px] sm:flex-col-reverse">
 					<div className="flex-[2]">
 						<div className="flex flex-col gap-[30px] tablet:w-[80%]">

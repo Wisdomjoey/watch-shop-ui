@@ -39,7 +39,7 @@ function Header() {
 
 	return (
 		<header className="absolute top-0 w-full border-b-[2px] border-[gray]/30 h-[80px] z-20">
-			<div className="h-full max-w-[1200px] mx-auto flex items-center sm:w-[90%]">
+			<div className="h-full max-w-[1200px] mx-auto flex items-center w-[90%]">
 				<div className="flex-1">
 					<Brand />
 				</div>
